@@ -30,7 +30,7 @@ public class FizzBuzz {
             // Next, how could you automatically test it by just adding some code to this class?
             //  Which "test cases" did you come up with why and why?
             // Do this using "pair programming" but in groups of three or four students...
-            // At home later, try using Junit for defining and running these test cases.
+            // Later, try using Junit for defining and running these test cases.
             // You will probably refactor the code and the tests several times until you are happy!
     } // main
 } // class
